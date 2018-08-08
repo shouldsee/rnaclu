@@ -8,4 +8,4 @@ The two following components have been split since August 8th 2018 for modularit
 
 ## Updates:
 
-August 08th: The Package has been renamed from "synotil" to "rnaclu".
+- August 08th: The Package has been renamed from "synotil" to "rnaclu".
